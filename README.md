@@ -57,6 +57,6 @@ This Power BI project analyzes 5,000 customer purchase records to identify custo
 
 ## Repository Structure
 - [Download Power BI File](customer-and-product-peformance-analysis.pbix)
-* [01-executive_overview.png](01-executive-overview.png)
-* [02-customer-analysis.png](02-customer-analysis.png)
-* [03-product-analysis.png](03-product-analysis.png)
+- [01-executive_overview.png](01-executive-overview.png)
+- [02-customer-analysis.png](02-customer-analysis.png)
+- [03-product-analysis.png](03-product-analysis.png)
